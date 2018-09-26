@@ -11,6 +11,7 @@ public class FirstClass {
 			names.add("James");
 			names.add("Saint");
 			names.add("Patrick");
+			names.add("Ghost");
 			System.out.print(names);
 			
 			names.forEach(System.out::print);
