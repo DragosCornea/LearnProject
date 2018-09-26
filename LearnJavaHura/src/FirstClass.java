@@ -21,6 +21,7 @@ public class FirstClass {
 			names.remove(0);
 			System.out.println(names);
 			System.out.println("CommitForTheNewBranch");
+			names.remove(1);
 	}
 
 }
